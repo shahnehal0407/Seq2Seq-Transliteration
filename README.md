@@ -1,22 +1,22 @@
 # Seq2Seq Transliteration
 
-#  Overview
+Overview
 This project implements **character-level Sequence-to-Sequence (Seq2Seq) models** for the task of transliterating Indian names between **English (Roman script)** and **Hindi (Devanagari script)**.  
 
 The assignment is part of the *Introduction to NLP* course and focuses on building conditional language models that learn how to map sequences from one script to another.
 
-#  Goal
+Goal
 The main objective was to design models that can:
 - Capture the character-level patterns in Indian names.  
 - Generate accurate Hindi transliterations given English input.  
 - Compare different Seq2Seq architectures and decoding strategies.  
 
-# What We Explored
+What We Explored
 - **Baseline Seq2Seq with RNNs** – to understand core sequence modeling.  
 - **Seq2Seq with Attention** – for better alignment between input and output.  
 - **Decoding Strategies** – Greedy decoding vs. Beam Search for evaluation.  
 
-#  Learning
+Learning
 This project helped me connect theory with practice by:
 - Implementing Seq2Seq models from scratch.  
 - Understanding why attention improves transliteration accuracy.  
