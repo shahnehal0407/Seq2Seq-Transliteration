@@ -1,5 +1,4 @@
-# Seq2Seq Transliteration
-
+Seq2Seq Transliteration
 Overview
 This project implements **character-level Sequence-to-Sequence (Seq2Seq) models** for the task of transliterating Indian names between **English (Roman script)** and **Hindi (Devanagari script)**.  
 
